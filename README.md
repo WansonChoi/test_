@@ -4,4 +4,4 @@ afdsfadsf
 
 [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/asciidoctor/maven/asciidoctorj)
 
-[![lalala](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://www.naver.com/)
+[![plink](https://img.shields.io/badge/plink-v1.07-red.svg)](http://zzz.bwh.harvard.edu/plink/)
